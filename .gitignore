@@ -1,4 +1,4 @@
 # Distribution / packaging
 node_modules
-
+# .env //this should be here too.
 
